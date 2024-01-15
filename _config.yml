@@ -1,7 +1,6 @@
 title: Carteira Eficiente
 # logo: /assets/img/logo.png
 description: Neste projeto, pretendo, a partir da Teoria Moderna do Portifólio, criar uma carteira que otimize o tradeoff de investir em ativos arriscados.
-gg
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
