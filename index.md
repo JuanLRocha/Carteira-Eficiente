@@ -1,5 +1,6 @@
 # Carteira Eficiente
- 
-Otimização de portifólio é uma importante área das finanças quantitativas. A Teoria Moderna do Portifólio introduzida por Harry Markowitz no artigo 'Portifolio Selection' e aprimorada por diversos outros pesquisadores como Tobin e Sharpe.
+## Apresentação
 
-Neste projeto, busco construir uma carteira de ações a partir de ativos arriscados que maximize o retorno esperado em relação ou risco. Para isso, utilizarei os dados coletados do yahoo finance 
+Otimização de portifólio é uma importante área das finanças quantitativas, já que estamos sempre buscando a maneira mais eficiente e lucrativa de determinada operação. A Teoria Moderna do Portifólio introduzida por Harry Markowitz no artigo 'Portifolio Selection' e aprimorada por diversos outros pesquisadores como Tobin e Sharpe busca desenvolver, dentre uma série de ativos arriscados e um livre de risco, a combinção desses ativos que trenha a melhor combinação risco-retorno.
+
+Neste projeto busco através dessa teoria desenvolver um algoritmo na linguagem R 
