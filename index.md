@@ -4,4 +4,4 @@ Otimização de portifólio é uma importante área das finanças quantitativas,
 
 Neste projeto busco através dessa teoria desenvolver um algoritmo na linguagem R que realize a extração dos dados da API do Yahoo Finance, realize todos os cáculos nescessários e construa gráficos e tabelas que resumam as informções chaves do modelo para que assim haja facil identificação e leitura dos dados para aqueles de fora do projeto.
 
-
+## Teoria do Modelo
