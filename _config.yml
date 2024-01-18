@@ -4,3 +4,6 @@ description: Neste projeto, pretendo, a partir da Teoria Moderna do Portifólio,
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+.text-justify {
+  text-align: justify;
+}
